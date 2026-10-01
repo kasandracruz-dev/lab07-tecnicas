@@ -3,3 +3,4 @@
 Bitacora de tecnicas avanzadas de prompting
 
 - [Bitacora de tecnicas avanzadas](BITACORA.md)
+- [Tarea: mi prompt avanzado](TAREA.md)
